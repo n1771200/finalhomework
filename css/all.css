@@ -1,0 +1,24 @@
+﻿
+*{margin:0px;padding:0px;}
+body{font-family:"微软雅黑";}
+input{outline:none;}
+img{border:0px;/vertical-align:middle;}
+.clear{clear:both;height:0px;line-height:0px;font-size:0px;overflow:hidden;}	
+ul,ol,li{list-style:none;}	
+a{text-decoration:none; color:#333;}
+a:hover{color:#F00;}
+
+.projects-headerr{
+	color:#ffd97f;
+	text-align	:center;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+.projects-conn{
+	color:#FFF;
+	text-align: center;
+	text-align	:center;
+	margin-left:15%;
+	margin-right:15%;
+}
